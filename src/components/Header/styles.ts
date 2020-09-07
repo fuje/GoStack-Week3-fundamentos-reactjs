@@ -34,7 +34,7 @@ export const Container = styled.div<ContainerProps>`
         }
 
         &.is-active {
-          border-bottom: 2px solid #FF872C;
+          border-bottom: 2px solid #ff872c;
         }
       }
     }
